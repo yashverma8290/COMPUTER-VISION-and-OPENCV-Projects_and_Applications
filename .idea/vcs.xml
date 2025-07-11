@@ -2,9 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GestureRobotArmControl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hand Gesture Controlled Presentation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OPENCV-toolkit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/YOLO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/automatic-number-plate-recognition-python-yolov8" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/opencv_features" vcs="Git" />
   </component>
 </project>
