@@ -58,7 +58,7 @@ while True:
 
             # Format data to send like $10101
             data = "$" + ''.join(map(str, fingers))
-            #arduino.write(data.encode())
+            arduino.write(data.encode())
 
     cv2.imshow("Hand Tracking", img)
     if cv2.waitKey(1) & 0xFF == ord('q'):
